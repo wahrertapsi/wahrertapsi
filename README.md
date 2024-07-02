@@ -10,9 +10,7 @@ Hallöschen :D im am Tapsi and im from Germany
 
  # 💻 Languages
  
- [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-
- [![My Skills](https://skillicons.dev/icons?i=css,html,js,gradle)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=java,gradle,maven)](https://skillicons.dev)
 
  # 🚀 Platforms
  
