@@ -4,11 +4,11 @@ My name is Tapsi im from Germany and I programm stuff :D
 
 # 🔍About Me!
 
- - 😄|Pronouns: He/Him
+ - 😄| Pronouns: He/Him
  
- - ☕| I mainly programm in java
+ - ☕| Java
 
- - 📬│Contact me at Discord [WahrerTapsi](https://discord.com/users/1157252084341690368) :D
+ - 📬│ Contact me at Discord [WahrerTapsi](https://discord.com/users/1157252084341690368) :D
 
  # 💻 Languages
  
