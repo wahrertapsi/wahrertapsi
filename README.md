@@ -1,4 +1,5 @@
-Hallöschen :D im am Tapsi and im from Germany
+Hallöschen ^^
+My name is Tapsi im from Germany and I programm stuff :D
 
 # 🔍About Me!
 
@@ -10,11 +11,11 @@ Hallöschen :D im am Tapsi and im from Germany
 
  # 💻 Languages
  
- [![My Skills](https://skillicons.dev/icons?i=java,gradle,maven)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=java,kotlin&theme=dark)](https://skillicons.dev)
  
  # 🧰 Tools
  
- [![My Skills](https://skillicons.dev/icons?i=idea,vscode,github)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=idea,vscode,github&perline=3)](https://skillicons.dev)
 
 ## 📊 Github Stats
 
